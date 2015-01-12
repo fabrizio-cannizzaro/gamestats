@@ -1,4 +1,5 @@
-/* Copyright 2015, Fabrizio Cannizzaro - alcinoo.cannizzaro@gmail.com
+/* ---------------------------------------------------------------------
+Copyright 2015, Fabrizio Cannizzaro - alcinoo.cannizzaro@gmail.com
  This file is part of gamestats.
 
     gamestats is free software: you can redistribute it and/or modify
@@ -12,18 +13,18 @@
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with gamestats.  If not, see <http://www.gnu.org/licenses/>.
-*/
+    along with gamestats.  If not, see <http://www.gnu.org/licenses/>. 
+ -----------------------------------------------------------------------*/
 
 table, th, td {
-    border: 1px solid black
-    border-collapse: collapse
+    border: 1px solid black;
+    border-collapse: collapse;
 }
 th, td {
-    padding: 5px
+    padding: 5px;
 }
 th {
-    text-align: left
+    text-align: left;
 }
-.right {text-align: right}
-.center {text-align: center}
+.right {text-align: right;}
+.center {text-align: center;}
