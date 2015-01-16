@@ -6,7 +6,7 @@ Clojoure smart programming Example Application
 
 1) lein run
 
-2) Open an browser at this url:
+2) Open a browser at this url:
   http://localhost:8080
   
   There is a web page with the "Player Top Ten" statistics, refreshed automatically.
